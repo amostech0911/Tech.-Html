@@ -1,0 +1,105 @@
+.head{
+  background: black; 
+  color: white;
+  border-radius:10px;
+  position: sticky;
+  top:10px;
+  padding-left: 100px;
+  padding: 10px 10px 10px 100px;
+} 
+.body{
+  text-align: flex;
+  margin-top: 10px;
+  padding: 10px;
+  
+}
+body{
+  background: lightcyan;
+  
+}
+
+.pix{
+  width: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: justify;
+}
+
+
+
+span{
+  color: yellow;
+  background: black;
+  border-radius: 5px;
+  
+}
+
+.deel{
+  margin: 5px;
+  padding: 10px;
+  font-size: 20px
+}
+
+.como{
+  color: greenyellow;
+  padding: 10px;
+  margin: 10px;
+  background: blueviolet;
+  padding-top: 10px
+}
+
+
+.clue{
+  color: greenyellow;
+  padding: 10px;
+  margin: 10px;
+  background: p;
+}
+
+
+.coot{
+  background: green;
+  color: white;
+}
+
+.scrol{
+  padding: 5px;
+}
+.btn{
+
+}
+button{
+  background: green;
+  padding: 20px;
+  margin: 5px;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.img-container{
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+}
+
+.img-container img{
+ width: 100px; 
+ height: auto;
+ display: block;
+}
+
+.container{
+  margin: 5px;
+  padding: 5px;
+  border: 1px solid black;
+}
+
+
+.Disc{
+  
+}
+
+.serv{
+  
+}
